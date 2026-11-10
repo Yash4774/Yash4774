@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Gym coach project artwork">
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#082f49"/><stop offset=".55" stop-color="#155e75"/><stop offset="1" stop-color="#0f766e"/></linearGradient><linearGradient id="line"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a3e635"/></linearGradient></defs>
+ <rect width="900" height="220" rx="22" fill="url(#bg)"/><circle cx="710" cy="100" r="130" fill="#22d3ee" opacity=".12"/><circle cx="820" cy="216" r="100" fill="#a3e635" opacity=".1"/>
+ <g transform="translate(620 20)" fill="none" stroke="url(#line)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><circle cx="95" cy="30" r="17" fill="#cffafe" stroke="none"/><path d="m92 54-25 46 44 20 23-38m-67 18-34 27m79-7-3 48m-45-68-20 57m21-54 36 20 35 34"/><circle cx="92" cy="103" r="66" stroke-width="2" stroke-dasharray="5 10" opacity=".65"/><path d="M5 178h215" stroke-width="3" opacity=".5"/></g>
+ <g fill="#a3e635"><circle cx="593" cy="48" r="5"/><circle cx="837" cy="62" r="5"/><circle cx="792" cy="188" r="4"/></g><path d="M560 160c35-22 55-22 88 0s53 22 88 0 53-22 88 0" fill="none" stroke="#67e8f9" stroke-width="2" opacity=".35"/>
+</svg>
