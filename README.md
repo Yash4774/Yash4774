@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:075985,100:06B6D4&height=210&section=header&text=Sahil%20Srivastava&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=60&descSize=17" width="100%" alt="Sahil Srivastava — AI, machine learning, and computer vision" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:6D28D9,70:DB2777,100:06B6D4&height=230&section=header&text=Sahil%20Srivastava&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Learner%20%20%E2%9C%A6%20%20Python%20Developer%20%20%E2%9C%A6%20%20Web%20%26%20Data%20Projects&descAlignY=62&descSize=18" width="100%" alt="Colorful animated profile banner" />
 
 [![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+AI+and+machine+learning;Building+useful%2C+human-centered+projects;Exploring+computer+vision+and+NLP)](https://git.io/typing-svg)
 
@@ -32,16 +32,12 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
     <td width="50%" valign="top">
       <h3>📄 AI Resume Analyzer</h3>
       <p>Analyzes resumes with NLP and generative AI to support resume insights and job matching.</p>
-      <a href="https://github.com/Yash4774/ATS-RESUME-ANALYZER">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash4774&repo=ATS-RESUME-ANALYZER&theme=tokyonight&hide_border=true" alt="AI Resume Analyzer repository card" />
-      </a>
+      <a href="https://github.com/Yash4774/ATS-RESUME-ANALYZER"><img src="assets/resume-analyzer.svg" width="100%" alt="Resume analyzer project artwork" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏋️ AI Real-Time Gym Coach</h3>
       <p>Uses pose detection to track exercise form, count repetitions, and provide real-time feedback.</p>
-      <a href="https://github.com/Yash4774/AI-REAL-TIME-GYM-COACH">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash4774&repo=AI-REAL-TIME-GYM-COACH&theme=tokyonight&hide_border=true" alt="AI Real-Time Gym Coach repository card" />
-      </a>
+      <a href="https://github.com/Yash4774/AI-REAL-TIME-GYM-COACH"><img src="assets/gym-coach.svg" width="100%" alt="Gym coach project artwork" /></a>
       <a href="https://ai-realtime-gym-assist.netlify.app/">↗ Explore the live project</a>
     </td>
   </tr>
@@ -49,16 +45,12 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
     <td width="50%" valign="top">
       <h3>🎨 Neural Style Transfer</h3>
       <p>Explores artistic image transformation with AdaIN, PyTorch, and a Flask web application.</p>
-      <a href="https://github.com/Yash4774/Neural-Style-Transfer-AdaIN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash4774&repo=Neural-Style-Transfer-AdaIN&theme=tokyonight&hide_border=true" alt="Neural Style Transfer repository card" />
-      </a>
+      <a href="https://github.com/Yash4774/Neural-Style-Transfer-AdaIN"><img src="assets/style-transfer.svg" width="100%" alt="Neural style transfer project artwork" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ SHEild AI</h3>
-      <p>An AI-powered safety platform concept featuring alerts, safe-route support, and risk prediction.</p>
-      <a href="https://github.com/Yash4774/SHEild-AI-Women-Safety">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash4774&repo=SHEild-AI-Women-Safety&theme=tokyonight&hide_border=true" alt="SHEild AI repository card" />
-      </a>
+      <h3>📚 SnapClass</h3>
+      <p>An AI-powered attendance system with facial and voice verification, live analytics, and Supabase-backed records.</p>
+      <a href="https://github.com/Yash4774/snapclass"><img src="assets/snapclass.svg" width="100%" alt="SnapClass project artwork" /></a>
     </td>
   </tr>
 </table>
@@ -71,18 +63,36 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
 
 ---
 
-## 🧰 Technologies & interests
+## 🧰 Tech stack & interests
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Languages & workflow**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Areas I’m exploring:** Machine Learning · Computer Vision · NLP · Generative AI
+**Machine learning & data**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Application tools**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-111827?style=flat-square&logo=groq&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-A855F7?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-7C3AED?style=flat-square)
+
+**ML concepts:** CNNs · RNNs · Supervised Learning · Unsupervised Learning · Reinforcement Learning (DQN)  
+**Interests:** NLP & Transformers · Retrieval-Augmented Generation (RAG) · AI Agents · Computer Vision · Real-Time AI
 
 </div>
 
@@ -91,11 +101,6 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
 ## 📊 GitHub at a glance
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yash4774&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash4774&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-<br />
 
 <img src="https://streak-stats.demolab.com?user=Yash4774&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
