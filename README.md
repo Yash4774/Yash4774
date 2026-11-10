@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:6D28D9,70:DB2777,100:06B6D4&height=230&section=header&text=Sahil%20Srivastava&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Learner%20%20%E2%9C%A6%20%20Python%20Developer%20%20%E2%9C%A6%20%20Web%20%26%20Data%20Projects&descAlignY=62&descSize=18" width="100%" alt="Colorful animated profile banner" />
+<h1>Sahil Srivastava</h1>
+<p><strong>AI/ML Learner ✦ Python Developer ✦ Web &amp; Data Projects</strong></p>
 
 [![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Learning+AI+and+machine+learning;Building+useful%2C+human-centered+projects;Exploring+computer+vision+and+NLP)](https://git.io/typing-svg)
 
@@ -115,7 +116,5 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
 If a project catches your eye, explore the repo, share feedback, or connect with me.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yash4774&style=flat&color=0891B2&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" width="100%" alt="" />
 
 </div>
