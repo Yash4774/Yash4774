@@ -3,7 +3,7 @@
 <h1>Sahil Srivastava</h1>
 <p><strong>AI/ML Learner ✦ Python Developer ✦ Web &amp; Data Projects</strong></p>
 
-<img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/assets/typing-banner.gif" width="100%" alt="Animated AI and software development text banner" />
+<img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/typing-banner.gif" width="100%" alt="Animated AI and software development text banner" />
 
 <br />
 
@@ -33,12 +33,12 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
     <td width="50%" valign="top">
       <h3>📄 AI Resume Analyzer</h3>
       <p>Analyzes resumes with NLP and generative AI to support resume insights and job matching.</p>
-      <a href="https://github.com/Yash4774/ATS-RESUME-ANALYZER"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/assets/resume-analyzer.svg" width="100%" alt="Resume analyzer project artwork" /></a>
+      <a href="https://github.com/Yash4774/ATS-RESUME-ANALYZER"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/resume-analyzer.svg" width="100%" alt="Resume analyzer project artwork" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏋️ AI Real-Time Gym Coach</h3>
       <p>Uses pose detection to track exercise form, count repetitions, and provide real-time feedback.</p>
-      <a href="https://github.com/Yash4774/AI-REAL-TIME-GYM-COACH"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/assets/gym-coach.svg" width="100%" alt="Gym coach project artwork" /></a>
+      <a href="https://github.com/Yash4774/AI-REAL-TIME-GYM-COACH"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/gym-coach.svg" width="100%" alt="Gym coach project artwork" /></a>
       <a href="https://ai-realtime-gym-assist.netlify.app/">↗ Explore the live project</a>
     </td>
   </tr>
@@ -46,12 +46,12 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
     <td width="50%" valign="top">
       <h3>🎨 Neural Style Transfer</h3>
       <p>Explores artistic image transformation with AdaIN, PyTorch, and a Flask web application.</p>
-      <a href="https://github.com/Yash4774/Neural-Style-Transfer-AdaIN"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/assets/style-transfer.svg" width="100%" alt="Neural style transfer project artwork" /></a>
+      <a href="https://github.com/Yash4774/Neural-Style-Transfer-AdaIN"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/style-transfer.svg" width="100%" alt="Neural style transfer project artwork" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📚 SnapClass</h3>
       <p>An AI-powered attendance system with facial and voice verification, live analytics, and Supabase-backed records.</p>
-      <a href="https://github.com/Yash4774/snapclass"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/assets/snapclass.svg" width="100%" alt="SnapClass project artwork" /></a>
+      <a href="https://github.com/Yash4774/snapclass"><img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/snapclass.svg" width="100%" alt="SnapClass project artwork" /></a>
     </td>
   </tr>
 </table>
