@@ -1,15 +1,12 @@
 <div align="center">
 
-<h1>Sahil Srivastava</h1>
-<p><strong>AI/ML Learner ✦ Python Developer ✦ Web &amp; Data Projects</strong></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=38&amp;duration=2400&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=72&amp;lines=Sahil+Srivastava;AI%2FML+Learner;Python+Developer" width="100%" alt="Animated name: Sahil Srivastava, AI/ML learner and Python developer" />
 
-<img src="https://raw.githubusercontent.com/Yash4774/Yash4774/main/typing-banner.gif" width="100%" alt="Animated AI and software development text banner" />
+<p><strong>Building practical AI, machine learning &amp; web projects</strong></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2600&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=48&amp;lines=Exploring+RAG%2C+NLP+and+computer+vision;Learning+CNNs%2C+RNNs+and+deep+learning;Turning+ideas+into+useful+software" width="100%" alt="Animated AI, machine learning, and software interests" />
 
 <br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-102198279)
-[![YouTube](https://img.shields.io/badge/YouTube-My%20channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Cinephile.47)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash4774)
 
 </div>
 
@@ -116,5 +113,11 @@ I'm an aspiring AI/ML developer from India who enjoys turning ideas into practic
 If a project catches your eye, explore the repo, share feedback, or connect with me.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yash4774&style=flat&color=0891B2&label=PROFILE+VIEWS)
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-102198279)
+[![YouTube](https://img.shields.io/badge/YouTube-My%20channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Cinephile.47)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash4774)
 
 </div>
